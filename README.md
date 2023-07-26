@@ -2,6 +2,10 @@
 
 DegenGamingToken is an ERC-20 token contract designed for the Degen Gaming platform on the Avalanche network. This contract is based on OpenZeppelin's ERC20Burnable contract and includes additional functionality to enable token minting, transfers, burning, item redemption in the in-game store, and checking token balances.
 
+## snowtrace Transactions
+![Screenshot 2023-07-26 204605](https://github.com/Kartheek2024/EthereumIntermediateproject4/assets/128969620/13d1b602-818b-45aa-8c79-d413d2fd5e79)
+
+
 ## Features
 
 - Minting new tokens to reward players (only the contract owner can mint tokens).
